@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gorhill/cronexpr"
+	"github.com/ohkinozomu/cronexpr"
 )
 
 /******************************************************************************/

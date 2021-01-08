@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gorhill/cronexpr"
+	"github.com/ohkinozomu/cronexpr"
 )
 
 /******************************************************************************/
